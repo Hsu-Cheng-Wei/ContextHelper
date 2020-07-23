@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextHelper", "ContextHelper\ContextHelper.csproj", "{69E89736-9996-4F63-AA00-D0F37AAE09B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextHelperTests", "ContextHelperTests\ContextHelperTests.csproj", "{00F8D580-61E2-48F4-AAFF-FAECC3F05351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E89736-9996-4F63-AA00-D0F37AAE09B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E89736-9996-4F63-AA00-D0F37AAE09B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E89736-9996-4F63-AA00-D0F37AAE09B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E89736-9996-4F63-AA00-D0F37AAE09B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F8D580-61E2-48F4-AAFF-FAECC3F05351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F8D580-61E2-48F4-AAFF-FAECC3F05351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F8D580-61E2-48F4-AAFF-FAECC3F05351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F8D580-61E2-48F4-AAFF-FAECC3F05351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80EE9E39-235D-47DE-8071-CCBFEB71B76F}
+	EndGlobalSection
+EndGlobal
